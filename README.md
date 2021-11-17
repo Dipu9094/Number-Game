@@ -1,10 +1,10 @@
 # Guessing game.
 
-
+This is a simple guessing game. 
 
 ## Live Demo of this website :
 
-- [Live Site Link](https://bike-showroom-b29e0.web.app/)
+- [Live Site Link](https://dipu9094.github.io/Number-Game/)
 
 
 ## 💻 Developed By
